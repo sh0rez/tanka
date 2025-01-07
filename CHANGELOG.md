@@ -2,6 +2,20 @@
 
 For releases from v0.24.0 to v0.28.3, you can find the changelog in the GitHub releases: https://github.com/grafana/tanka/releases
 
+## [0.31.2](https://github.com/grafana/tanka/compare/v0.31.1...v0.31.2) (2025-01-07)
+
+
+### 🐛 Bug Fixes
+
+* `Unexpected input(s) 'github-token'` in `release-please` job ([#1301](https://github.com/grafana/tanka/issues/1301)) ([e465a31](https://github.com/grafana/tanka/commit/e465a3123ea9b18f6b3afe4414f7bb80b57efa32))
+
+
+### 🏗️ Build System
+
+* **deps:** bump astro from 5.1.1 to 5.1.2 in /docs in the docs-dependencies group ([#1303](https://github.com/grafana/tanka/issues/1303)) ([27991f4](https://github.com/grafana/tanka/commit/27991f4c9cfab28bf366e6c3991bbfa12dac374e))
+* **deps:** bump github.com/99designs/gqlgen from 0.17.61 to 0.17.62 in /dagger ([#1302](https://github.com/grafana/tanka/issues/1302)) ([59b78ed](https://github.com/grafana/tanka/commit/59b78ed994966256025b69b381c3376e5acc3ac6))
+* **deps:** bump golang.org/x/term from 0.27.0 to 0.28.0 ([#1304](https://github.com/grafana/tanka/issues/1304)) ([c071693](https://github.com/grafana/tanka/commit/c071693977b19aa35d05179f33313426f4c88ce2))
+
 ## [0.31.1](https://github.com/grafana/tanka/compare/v0.31.0...v0.31.1) (2025-01-02)
 
 
